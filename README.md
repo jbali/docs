@@ -1,6 +1,9 @@
 El_Tigre
 ========
 
+Jacob Zeransky &
+Jairus Bali
+
 TA: Furkan
 
 Milestones?:
