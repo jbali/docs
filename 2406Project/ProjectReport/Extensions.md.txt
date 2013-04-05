@@ -1,0 +1,17 @@
+
+The app can be further extended by:
+
+
+	user customizability: 
+		User's can have their own account and have the option whom they can share the files with. 
+		
+		
+
+
+
+	file preview:
+		When a user hovers over a link for download, an option to preview the file will be available.
+		
+		A way this could be done is by using AJAX, an iframe within the main page could be allocated for viewing purposes. This way the whole entire page would not have to be reloaded and only the 'viewing' iframe is changed.
+
+	

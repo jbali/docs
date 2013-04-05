@@ -1,0 +1,30 @@
+Architecture diagram and external library/program use
+	do tonight, search on it, pdf
+	***done***
+
+
+Framework demo (running application skeleton)
+	done
+
+Database and associated functions setup
+	jacob - mongodb
+
+File uploading and download 
+	done - jairus
+
+File preview and fixing up page display/layout
+	mayb for extensions???
+
+Working prototype/demo
+	done
+
+Extra features and debugging; possible features: client-side caching, 
+	extensions??
+	
+user account, advanced file previewing
+	extensions??
+
+Draft documentation
+	
+
+Final code and documentation
